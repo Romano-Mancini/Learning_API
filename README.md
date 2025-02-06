@@ -30,6 +30,6 @@ Use Postman to send GET, POST, and DELETE requests to test the API endpoints.
 ## Endpoints
 
 - GET /drinks – Get all drinks
-- GET /drink/<id> – Get a single drink by ID
+- GET /drink/\<id\> – Get a single drink by ID
 - POST /drinks – Add a new drink
-- DELETE /drinks/<id> – Delete a drink by ID
+- DELETE /drinks/\<id\> – Delete a drink by ID
